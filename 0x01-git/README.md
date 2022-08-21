@@ -1,1 +1,1 @@
-Added a new readme in a folder
+Added a new readme in a folder. Updated readme
